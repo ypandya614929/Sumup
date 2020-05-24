@@ -1,0 +1,36 @@
+.yash{
+    position:absolute;
+    width:100%;
+  }
+.new{
+  color:grey;
+}
+i{
+  color: black;
+}
+body{
+  background-color:#e9ece5;
+}
+footer {
+  bottom:-460px;
+  position:relative;
+  text-align: center;
+  background-color: #f2f2f2;
+  width: auto;
+}
+
+#b1{
+  width:auto;
+  text-align: center;
+}
+
+#b2{
+  text-align: center;
+  width:auto;
+}
+
+.admin1{
+  position: relative;
+  height: 50px;
+  top: 50px;
+}
